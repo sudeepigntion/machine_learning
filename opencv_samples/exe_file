@@ -1,0 +1,3 @@
+D:\opencv\tensorflow\tensor_flow\FlashApi\machine_learning\tensorflow_practice\opencv_samples>pyinstaller  --onefile -w read_write_camera.py
+
+nsin for bundle
